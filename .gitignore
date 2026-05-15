@@ -1,3 +1,16 @@
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-library/.ipynb_checkpoints
-library/seborn/.ipynb_checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
