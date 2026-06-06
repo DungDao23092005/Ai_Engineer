@@ -1,0 +1,18 @@
+1. Import thư viện
+2. Đọc dữ liệu
+3. Kiểm tra dữ liệu
+4. Làm sạch dữ liệu
+5. Xử lý missing value / giá trị 0 bất thường
+6. Tách X, y
+7. Chia train/test có stratify
+8. Tạo Pipeline: StandardScaler + Model
+9. Train model
+10. Predict
+11. Đánh giá: Accuracy, Precision, Recall, F1
+12. Confusion Matrix
+13. ROC-AUC
+14. Cross Validation
+15. Hyperparameter Tuning
+16. So sánh nhiều model
+17. Chọn model tốt nhất
+18. Lưu model bằng joblib/pickle
